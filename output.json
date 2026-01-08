@@ -1,0 +1,22 @@
+{
+  "applyGaussianBlur": false,
+  "gaussianBlurKernelSize": 5,
+  "gaussianBlurSigmaX": 1.0,
+  "applyCanny": false,
+  "cannyThreshold1": 50.0,
+  "cannyThreshold2": 150.0,
+  "applyBilateralFilter": false,
+  "bilateralFilterD": 9,
+  "bilateralFilterSigmaColor": 75.0,
+  "bilateralFilterSigmaSpace": 75.0,
+  "applyThreshold": false,
+  "thresholdValue": 127.0,
+  "thresholdType": 0,
+  "applyMorphology": false,
+  "morphologyType": 0,
+  "morphologyKernelSize": 5,
+  "applyBrightnessContrast": true,
+  "brightness": 72.0,
+  "contrast": 1.0,
+  "applyGrayscale": false
+}
